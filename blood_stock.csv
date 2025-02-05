@@ -1,0 +1,9 @@
+StockID,BloodGroup,QuantityAvailable,QualityStatus
+1,A+,9,Safe
+2,A-,23,Contaminated
+3,B+,13,Contaminated
+4,B-,28,Contaminated
+5,AB+,5,Safe
+6,AB-,14,Safe
+7,O+,46,Safe
+8,O-,24,Safe
